@@ -1,0 +1,122 @@
+* 000 Computer science, knowledge and systems 
+o 000 Computer science, knowledge and systems
+- 001 Knowledge
+o 010 Bibliographies
+- 011 Bibliographies
+o 020 Library and information sciences
+- 021 Library relationships (with archives, information centers, etc)
+o 030 Encyclopaedias and books of facts
+- 031 Encyclopaedias in American English
+o 050 Magazines
+- 051 Serials in American English
+
+* 100 Philosophy and psychology
+o 100 Philosophy
+- 101 Theory of philosophy
+o 110 Metaphysics
+- 111 Ontology
+o 120 Epistemology
+- 121 Epistemology (Theory of knowledge)
+o 130 Parapsychology and occultism
+- 131 Parapsychological and occult methods for achieving well-being, happiness, success
+o 140 Philosophical schools of thought
+- 141 Idealism and related systems and doctrines
+
+* 200 Religion
+o 200 Religion
+- 201 Religious mythology, general classes of religion, interreligious relations and attitudes, social theology
+o 210 Philosophy and theory of religion
+- 211 Concepts of God
+o 220 The Bible
+- 221 Old Testament (Tanakh)
+o 230 Christianity
+- 231 God
+o 240 Christian practice and observance
+- 241 Christian ethics
+
+* 300 Social sciences
+o 300 Social sciences, sociology and anthropology
+- 301 Sociology and anthropology
+o 310 Statistics
+- 314 General statistics of Europe
+o 320 Political science
+- 321 Systems of governments and states
+o 330 Economics
+- 331 Labor economics
+o 340 Law
+- 341 Law of nations
+
+* 400 Language
+o 400 Language
+- 401 Philosophy and theory, international languages
+o 410 Linguistics
+- 411 Writing systems and standard forms of languages
+o 420 English and Old English languages
+- 421 Writing system, phonology. Phonetics of standard English
+o 430 German and related languages
+- 431 Writing system, phonology. Phonetics of standard German
+o 440 French and related languages
+- 441 Writing system, phonology. Phonetics of standard French
+
+* 500 Science
+o 500 Science
+- 501 Philosophy and theory
+o 510 Mathematics
+- 511 General principles of mathematics
+o 520 Astronomy
+- 521 Celestial mathematics
+o 530 Physics
+- 531 Classical mechanics
+o 540 Chemistry
+- 541 Physical chemistry
+
+* 600 Technology
+o 600 Technology
+- 601 Philosophy and theory
+o 610 Medicine and health
+- 611 Human anatomy, cytology, histology
+o 620 Engineering
+- 621 Applied physics
+o 630 Agriculture
+- 631 Specific techniques; apparatus, equipment, materials
+o 640 Home and family management
+- 641 Food and drink
+
+* 700 Arts and recreation
+o 700 Arts
+- 701 Philosophy and theory of fine and decorative arts
+o 710 Area planning and landscape architecture
+- 711 Area planning (Civic art)
+o 720 Architecture
+- 721 Architectural materials and structural elements
+o 730 Sculpture, ceramics and metalwork
+- 731 Processes, forms, subjects of sculpture
+o 740 Graphic arts and decorative arts
+- 741 Drawing and drawings
+
+* 800 Literature
+o 800 Literature, rhetoric and criticism
+- 801 Philosophy and theory
+o 810 American literature in English
+- 811 American poetry in English
+o 820 English and Old English literatures
+- 821 English Poetry
+o 830 German and related literatures
+- 831 German poetry
+o 840 French and related literatures
+- 841 French poetry
+
+* 900 History and geography
+o 900 History
+- 901 Philosophy and theory of history
+o 910 Geography and travel
+- 911 Historical geography
+o 920 Biography and genealogy
+- 929 Genealogy, names, insignia
+o 930 History of ancient world (to c. 499)
+- 931 China to 420
+o 940 History of Europe
+- 941 British Isles
+
+
+
